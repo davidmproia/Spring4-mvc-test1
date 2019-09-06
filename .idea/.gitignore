@@ -2,3 +2,5 @@
 /workspace.xml
 *.iml
 .ideal/modules.xml
+*.class
+/modules.xml
